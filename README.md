@@ -1,27 +1,103 @@
-# Hi! I'm Kamil! 👋
+<h1 align="center">Hi 👋, I'm Kamil Tręboszka</h1>
 
-<br />
+<h3 align="center">
+🚀 Fullstack Developer • Scrum Master • AI Enthusiast
+</h3>
 
-I'm a student of computer science and I enjoy of learining new technologies, which I can use to improve my codes. 
-- 🔭 I’m currently working on my own projects which gives me opportunity to improve my programming skills
-- 🌱 I’m currently learning ASP.NET and Bootstrap
-- 💻 I’m going to increase my front-end development skills
+<p align="center">
+Building scalable Web, Mobile & Desktop applications with Angular, NestJS, Ionic & Electron.
+</p>
 
-**Languages and Tools:** <br />
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer;Scrum+Master;Angular+Developer;NestJS+Developer;Ionic+Developer;AI+%26+Automation+Enthusiast&center=true&width=700&height=50" />
+</p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamiltreboszka&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamiltreboszka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 👨‍💻 About Me
+
+- 🚀 Fullstack Developer with a passion for building scalable applications
+- 👨‍💼 Scrum Master focused on delivering value through Agile practices
+- 📱 Developing Web, Mobile and Desktop applications
+- 🏗 Enthusiast of Nx Monorepo architecture
+- 🤖 Exploring AI, Automation and modern software development
+- ☕ Powered by coffee and curiosity
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,javascript,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
+</p>
+
+### Mobile & Desktop
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+</p>
+
+### Architecture & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Nx_Monorepo-143055?style=for-the-badge&logo=nx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Leadership & Methodologies
+
+<p>
+  <img src="https://img.shields.io/badge/Scrum_Master-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+```typescript
+const kamil = {
+  role: ["Fullstack Developer", "Scrum Master"],
+  frontend: ["Angular", "Angular Material", "TypeScript"],
+  backend: ["NestJS", "Node.js"],
+  mobile: ["Ionic"],
+  desktop: ["Electron"],
+  architecture: peat."
+};
+```
+
+---
+
+## 🎯 Current Focus
+
+- 🏗 Enterprise Angular Applications
+- ⚡ Nx Monorepo Architecture
+- 🚀 NestJS APIs
+- 📱 Cross-platform Mobile Apps
+- 🖥 Desktop Applications with Electron
+- 🤖 AI-powered Solutions & Automation
+- 👨‍💼 Agile Leadership & Scrum
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  https://www.linkedin.com/in/kamil-treboszka/
+</p>
+
+---
+
+<p align="center">
+  <i>🚀 Building solutions that scale. Leading teams that deliver.</i>
+</p>
